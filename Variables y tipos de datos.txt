@@ -1,0 +1,6 @@
+ Variables y tipos de datos
+ todo software por más pequeño que sea necesita datos.
+ Bytes
+ Proesador
+ -While
+ Este ciclo puede funcionar 

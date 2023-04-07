@@ -1,0 +1,34 @@
+Estructura
+
+* Nombre (tambien pueden ser anónimas)
+* Parámetros (Son los nombres de los valores que vamos 
+a recibir para procesar) (opcionales)
+* valores de retorno(Son los resultados de procesamiento
+de la función)(opcional)
+## Ejercicio  algoritmo en python 01 ##
+ """ Sin parámetros ni valores de retorno """
+ def saludar():
+    print("Hola comunidad EDteam")
+""" Ejecutar la función """
+Saludar()
+
+## Ejercicio  algoritmo en python 02 ##
+
+""" Con parámetros con valores  y sn valores de retorno """
+def saludar(nombre):
+  print("hola", nombre, ", integrantes de la comunidad de edteam)
+
+"""  Ejecutar la función
+saludar("Miguel")     
+saludar("José")     
+saludar("Mariela")     
+saludar("Fanny")     
+saludar("Izabel")     
+saludar("Cesar")     
+saludar("Felipe")        
+saludar("Gladys")     
+
+
+
+
+

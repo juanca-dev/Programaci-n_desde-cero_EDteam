@@ -1,0 +1,13 @@
+
+FUNCION
+
+¿Qué es una función?
+
+Es un bloque de código que realiza una actividad específica.
+Lo puedes reutilizar las veces que necesites,eso significa
+que no necesitas estar copiando y pegando código para -
+realizar una tarea.Ojo, es diferente a los ciclos ,ya que 
+no es repartir una tarea varias veces, sino que puedes reutilizar -
+el código en diferentes,lugares de tu aplicación.
+
+
