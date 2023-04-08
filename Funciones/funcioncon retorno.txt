@@ -1,0 +1,9 @@
+""" Con parámetros y con valores de retorno """
+def saludar (nombre):
+return "hola" + nombre + ", integrante de la comunidad
+
+""" E#jecutar la función """
+resultado = saludar("pedro")
+print(resultado) 
+resultado = saludar("maria")
+print(resultado)
